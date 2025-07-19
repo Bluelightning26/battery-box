@@ -2,10 +2,10 @@
 
 ## A box for your batteries!
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/422beb09d559ba5fc1a80547e56bb3225d610373_battery-thumb.jpg)
-I was looking for some batteries for a project and noticed how messy the current battery solution was in my house of stuffing everything in a box. I realized I had a 3d printer and can make anything I want with it; unfortunately I couldn't find anything online that was simple that I liked... so I made one myself! Under 10 hours later, here we are :D
+I was looking for some batteries for a project and noticed how messy the current battery storage solution was in my house; currently it's just stuffing everything in a box. I realized I have a 3D printer that I could make anything I wanted with; unfortunately, I couldn't find anything online that was simple and to my liking... so I made one myself! Less than 10 hours later, here we are :D
 
 ## Features
-This box featues 24 slots for AAA batteries and 18 slots for AA batteries. This is easily expandable/alterable with the open source cad files to your liking. The model is designed to be very sturdy, and I printed it at 10% infill with no problems. The fillament cost according to BambuStudio is $1.96 with 97.81 grams used.
+This box features 24 slots for AAA batteries and 18 slots for AA batteries. It is easily expandable and customizable with the open-source CAD files to suit your preferences. The model is designed to be very sturdy, and I printed it at 10% infill without any issues. According to BambuStudio, the filament cost is $1.96, with 97.81 grams used.
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/cd5d21c2977e0f531074c73d383aef696a52e326_screenshot_2025-07-18_at_11.47.30___pm.png)
 
 
