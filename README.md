@@ -1,6 +1,8 @@
 # Battery Box
 
 ## A box for your batteries!
+![](https://hackatime-badge.hackclub.com/U0824G9PTFE/Battery-Holder/?color=64BB58&label=Time%20Tracked%20In%20OnShape)
+![](https://hackatime-badge.hackclub.com/U0824G9PTFE/battery-box/?color=0098FF&label=Time%20In%20Visual%20Studio%20Code)
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/422beb09d559ba5fc1a80547e56bb3225d610373_battery-thumb.jpg)
 I was looking for some batteries for a project and noticed how messy the current battery storage solution was in my house; currently it's just stuffing everything in a box. I realized I have a 3D printer that I could make anything I wanted with; unfortunately, I couldn't find anything online that was simple and to my liking... so I made one myself! Less than 10 hours later, here we are :D
 
