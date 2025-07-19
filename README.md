@@ -11,7 +11,7 @@ This box features 24 slots for AAA batteries and 18 slots for AA batteries. It i
 
 
 
-## How to print Yourself 
+## How to print yourself 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/adc7511d59689ba2bb22925923760dfe06a9810d_20250718_223513.jpg)
 This was printed on my Bambu Lab A1 Mini with PLA fillament from Creality. You can find the specific fillament type [here](https://www.digikey.com/en/products/detail/creality-3d/CR-PLA-BLACK/15964819).
 
